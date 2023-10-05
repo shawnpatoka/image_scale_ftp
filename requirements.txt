@@ -1,0 +1,4 @@
+environs==9.3.1
+marshmallow
+Pillow
+python-dotenv==0.15.0

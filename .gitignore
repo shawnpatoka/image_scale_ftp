@@ -1,0 +1,11 @@
+env/
+__pycache__/
+*.pyc
+.env
+originals/
+resized/
+__docs/
+*.log
+*.swp
+.DS_Store
+.vscode/
